@@ -55,7 +55,7 @@ end
 def runner
   welcome
   initial_round
-  until 
+  until input == 21
   hit?
   
 end
