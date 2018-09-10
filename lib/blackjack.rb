@@ -58,4 +58,5 @@ def runner
   until input == 21
   hit?
 end
+end
     
