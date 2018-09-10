@@ -31,7 +31,7 @@ end
 def hit?(card_total)
   prompt_user
   get_user_input
-  
+  deal_card += card_total
 end
 
 def invalid_command
